@@ -1,7 +1,7 @@
 package entor;
 
 public class veredicto{
-    public void v(String valor1, String valor2){
+    private void v(String valor1, String valor2){
         if (valor1.equals(valor2)){
             System.out.println("Bien. Pero una hora de estudio para cada módulo puede ser insuficiente.");
         }
