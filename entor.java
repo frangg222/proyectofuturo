@@ -10,6 +10,6 @@ public class entor{
         String valor2=(sc.nextLine());
         veredicto veredicto= new veredicto();
         veredicto.v(valor1,valor2);
-
+//francisco andres garcia garcia
     }
 }
